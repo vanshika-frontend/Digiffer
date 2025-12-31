@@ -63,7 +63,7 @@ export default function ExperienceWeb() {
                 </div>
 
                 {/* Gasless Tron Transactions */}
-                <div className='primaryfont flex flex-wrap xl:flex-nowrap xl:justify-between  justify-center items-center gap-[70px]  w-full 2xl:px-[0] px-[20px] '>
+                <div className='primaryfont flex flex-wrap      xl:flex-nowrap xl:justify-between  justify-center items-center gap-[70px]  w-full 2xl:px-[0] px-[20px] '>
                     <img src={img3} />
                     <div className='max-w-[591px]'>
                         <h1 className='text-white sm:text-[48px] text-[23px] leading-[120%] font-[600]'>Gasless Tron Transactions</h1>
